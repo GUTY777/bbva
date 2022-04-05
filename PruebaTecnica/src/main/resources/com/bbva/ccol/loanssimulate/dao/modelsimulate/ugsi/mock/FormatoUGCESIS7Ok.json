@@ -1,0 +1,20 @@
+{
+  "produid": "1245",
+  "proname": "LOAN_PRODUCT",
+  "protipo": "INSURANCES",
+  "tipname": "NAME",
+  "procomp": "A02",
+  "comname": "SURAMERICANA",
+  "procont": "4655",
+  "contipo": "SWIFT",
+  "conname": "SWIFT",
+  "metpago": "02",
+  "metname": "CASH",
+  "prodobl": "S",
+  "adcmont": "45456.04",
+  "adcdivs": "COP",
+  "adcmonp": "454856.04",
+  "adcdivp": "COP",
+  "adcporp": "4546",
+  "defecto": "S"
+}

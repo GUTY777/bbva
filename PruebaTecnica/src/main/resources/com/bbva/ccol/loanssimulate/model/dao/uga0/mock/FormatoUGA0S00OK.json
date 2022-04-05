@@ -1,0 +1,22 @@
+{
+	"loanType" : {
+		"id" : "CONSUMO"
+	},
+	"alias" : "",
+	"contractingDate" : "",
+	"initialAmount" : {
+		"amount" : "8000000",
+		"currency" : "COP"
+	},
+	"currentInstalment" : {},
+	"currencies" : [],
+	"listTerms" : [
+		{
+			"number" : "48",
+			"frecuency" : "MON"
+		}
+	],
+	"bank":{},
+	"loanFamily":{},
+	"loanDestination":""
+}
